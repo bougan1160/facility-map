@@ -15,7 +15,8 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
     "nuxt": "^2.0.0",
-    "nuxt-leaflet": "0.0.19"
+    "nuxt-leaflet": "0.0.19",
+    "papaparse": "^5.1.1"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.0.0",

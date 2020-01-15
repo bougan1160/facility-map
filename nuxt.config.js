@@ -30,6 +30,8 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    { src: '@/plugins/csv-loader', ssr: false },
+    { src: '@/plugins/to-geojson' }
   ],
   /*
   ** Nuxt.js dev-modules
