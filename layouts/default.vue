@@ -26,7 +26,7 @@ export default {
   data () {
     return {
       clipped: false,
-      title: 'Facility Karte'
+      title: '公共施設カルテ'
     }
   }
 }
